@@ -4,3 +4,4 @@
 #### You can Reset the clock to start from 0
 #### You can Pause/Resume the clock
 #### You can switch between count up and count down
+![alt text](https://github.com/Omar-Emad/Digital-Clock/blob/master/screenshot.png)
